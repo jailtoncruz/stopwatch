@@ -9,20 +9,28 @@
   </a>
 </p>
 
-> Implements https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Stopwatch-App.md app
+> Implements
+> https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Stopwatch-App.md
+> app
+
+## Public URL
+
+https://jailtoncruz.github.io/stopwatch/
 
 ## Author
 
 👤 **Jailton Cruz**
 
-* Website: https://www.linkedin.com/in/jailtoncruz/
-* Twitter: [@jailtoncruzz](https://twitter.com/jailtoncruzz)
-* Github: [@jailtoncruz](https://github.com/jailtoncruz)
-* LinkedIn: [@jailtoncruz](https://linkedin.com/in/jailtoncruz)
+- Website: https://www.linkedin.com/in/jailtoncruz/
+- Twitter: [@jailtoncruzz](https://twitter.com/jailtoncruzz)
+- Github: [@jailtoncruz](https://github.com/jailtoncruz)
+- LinkedIn: [@jailtoncruz](https://linkedin.com/in/jailtoncruz)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+---
+
+_This README was generated with ❤️ by
+[readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
